@@ -1,6 +1,4 @@
-# README
-
-## News Bias Scraper
+# News Bias Scraper
 
 ### What?
 
