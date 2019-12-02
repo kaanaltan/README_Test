@@ -25,11 +25,14 @@
 [Allsides Media Bias Ratings]: https://www.allsides.com/media-bias/media-bias-ratings
 
 # Kaan Altan - Resume
-> Python version of my resume featuring a command line interface for interaction
+Python version of my resume featuring a command line interface for interaction
+> v2.0
+Introding scraping mode
 
 ## Usage
 
-Command line interface allows to access specific information:
+Command line interface allows access to specific information
+> v1.0
 - `-i`      Prints all content in the info dictionary
 - `-n`      Prints "Name" value in the info dictionary
 - `-p`      Prints "Phone" value in the info dictionary
@@ -41,6 +44,9 @@ Command line interface allows to access specific information:
 - `-s`      Prints all content in the skills dictionary
 - `-lss`    Lists keys in the skills dictionary (Skill titles)
 - `-sid`    Prints specified skills when a skill title is passed in
+> v2.0
+Skills are not supported in scraping mode
+- `-sc`     Enables scraping mode, scrapes & parses resume file passed in and uses that to display requested information
 
 ## License
 
