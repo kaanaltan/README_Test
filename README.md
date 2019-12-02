@@ -27,10 +27,11 @@
 # Kaan Altan - Resume
 
 ### v1.0
-Python version of my resume featuring a command line interface for interaction
+My resume in Python featuring a command line interface for interaction
 
 ### v2.0
 Scraping mode introduced
+
 Skills are not supported in scraping mode
 
 ## Usage
