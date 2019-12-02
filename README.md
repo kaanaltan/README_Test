@@ -25,8 +25,13 @@
 [Allsides Media Bias Ratings]: https://www.allsides.com/media-bias/media-bias-ratings
 
 # Kaan Altan - Resume
+
+### v1.0
 Python version of my resume featuring a command line interface for interaction
-> v2.0 - Scraping Mode
+
+### v2.0
+Scraping mode introduced
+Skills are not supported in scraping mode
 
 ## Usage
 
@@ -44,8 +49,6 @@ Command line interface allows access to specific information
 - `-lss`    Lists keys in the skills dictionary (Skill titles)
 - `-sid`    Prints specified skills when a skill title is passed in
 > v2.0
-> Skills are not supported in scraping mode
-
 - `-sc`     Enables scraping mode, scrapes & parses resume file passed in and uses that to display requested information
 
 ## License
