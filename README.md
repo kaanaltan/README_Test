@@ -26,10 +26,12 @@
 
 # Kaan Altan - Resume
 
-#### v1.0
+> v1.0
+
 My resume in Python featuring a command line interface for interaction
 
-#### v2.0
+> v2.0
+
 Scraping mode introduced
 
 ## Usage
