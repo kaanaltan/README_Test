@@ -27,6 +27,7 @@
 # Kaan Altan - Resume
 Python version of my resume featuring a command line interface for interaction
 > v2.0
+
 Introding scraping mode
 
 ## Usage
@@ -45,6 +46,7 @@ Command line interface allows access to specific information
 - `-lss`    Lists keys in the skills dictionary (Skill titles)
 - `-sid`    Prints specified skills when a skill title is passed in
 > v2.0
+
 Skills are not supported in scraping mode
 - `-sc`     Enables scraping mode, scrapes & parses resume file passed in and uses that to display requested information
 
